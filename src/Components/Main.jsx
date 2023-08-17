@@ -1,10 +1,11 @@
+import "./main.css"
 import Hero from "./Hero";
 import ProductDetail from "./ProductDetail";
 import Intro from "./intro";
 
 export default function Main() {
   return (
-    <div className="main">
+    <div className="container">
       <Hero />
       <ProductDetail
         title={"Light, Fast & Powerful"}

@@ -4,6 +4,9 @@
     align-items: center;
     height: 60px;
     background: none;    
+    max-width: 1080px;
+    margin: 0 auto;
+    font-family: Roboto;
 }
 
 .nav-header ul {
