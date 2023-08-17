@@ -1,6 +1,6 @@
 import "./intro.css";
 
-export default function Intro({ title, desc, imgUrl }) {
+export default function Intro({ title, desc, imgUrl, btnText }) {
   return (
     <div className="intro">
       <div className="intro-image">
@@ -12,6 +12,9 @@ export default function Intro({ title, desc, imgUrl }) {
         </div>
         <div className="intro-content__desc">
           <p>{desc}</p>
+        </div>
+        <div className={`intro-content__action ${btnText?"":"invisible"}`}>
+          <button className="btn-primary">{btnText}</button>
         </div>
       </div>
     </div>

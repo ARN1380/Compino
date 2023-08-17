@@ -21,3 +21,17 @@
 .intro-content__desc {
     color: #6F7CB2;
 }
+
+.intro-content__action {
+    margin-top: 3rem;
+
+}
+
+.intro-content__action button {
+    height: 32px;
+    width: 150px;
+}
+
+.invisible {
+    display: none;
+}
