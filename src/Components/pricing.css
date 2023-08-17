@@ -1,0 +1,58 @@
+.pricing {
+    height: 100vh;
+    background-color: #F3F5FF;
+    z-index: 1;
+    font-family: Roboto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pricing__title {
+    margin-top: 170px;
+    margin-bottom: 2rem;
+}
+.pricing__title p {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.pricing__desc {
+    max-width: 600px;
+    margin-bottom: 4rem;
+}
+
+.pricing__desc p {
+    color: #6F7CB2;
+}
+
+.pricing-price__number {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.pricing-price__desc {
+    font-size: .7em;
+    color: #37447E;
+    margin-top: .5rem;
+}
+
+.pricing-action__desc {
+    margin-top: 5rem;
+    color: #37447E;
+    font-size: .8em;
+}
+.pricing-action button {
+    width: 190px;
+    height: 31px;
+    margin-top: .5rem;
+}
+
+.halfcircle {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    z-index: 2;
+    border-radius: 0 0 50% 50%;
+}
