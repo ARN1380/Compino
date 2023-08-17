@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background: none;    
+}
+
+.nav-header ul {
+    display: flex;
+    list-style-type: none;
+    gap: 3rem;
+    color: #505F98;
+    font-size: 14px;
+    font-family: Roboto;
+    cursor: pointer;
+}
+
+.logo-header a img {
+    margin-left: -90px;
+    margin-bottom: -8px;
+    cursor: pointer;
+}
+
+.action-header button {
+    width: 160px;
+    height: 26px;
+}

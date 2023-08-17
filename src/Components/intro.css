@@ -1,0 +1,23 @@
+.intro {
+    display: flex;
+    padding: 6rem 0;
+    align-items: center;
+    
+}
+
+.intro-image {
+    width: 50%;
+}
+.intro-content {
+    width: 50%;
+    padding: 0 4rem;
+}
+
+.intro-content__title {
+    font-size: 1.2em;
+    margin-bottom: 1rem;
+}
+
+.intro-content__desc {
+    color: #6F7CB2;
+}

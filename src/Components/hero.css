@@ -1,0 +1,36 @@
+.hero {
+    display: flex;
+    height: calc(100vh - 60px);
+    align-items: center;
+}
+
+.hero-content__title {
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+.hero-content__desc {
+    margin-bottom: 4rem;
+}
+
+.hero-content__actions {
+    display: flex;
+    gap: 1.5rem;
+}
+.hero-content__actions button {
+    height: 2rem;
+    width: 180px;
+}
+
+.hero-image {
+    
+}
+.hero-image img {
+    /* position: absolute;
+    top: -100px;
+    right: -320px;
+    overflow: hidden; */
+    width: 100%;
+    z-index: -1;
+
+}

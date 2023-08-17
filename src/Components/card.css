@@ -1,0 +1,17 @@
+.card {
+    width: 100%;
+}
+
+.card__icon {
+    margin-bottom: .8rem;
+}
+
+.card__icon img {
+    width: 15%;
+}
+.card__title {
+    margin-bottom: .8rem;
+}
+.card__desc {
+    font-size: .8em;
+}
