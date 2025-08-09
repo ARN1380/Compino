@@ -1,8 +1,22 @@
-# React + Vite
+# Compino Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimal **desktop-only** landing page design for showcasing products or services. Built with a clean layout, subtle illustrations, and a focus on presenting key features effectively.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Desktop-Optimized** design (no mobile responsiveness)
+- Minimal, elegant UI with custom illustrations
+- Structured sections for:
+  - Product Introduction
+  - Feature Highlights
+  - Pricing
+  - Call-to-Action
+- Smooth scrolling and consistent color scheme
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 💻 Demo
+You can view the live demo here: [Compino Demo](https://compino.netlify.app)
+
+## 📌 Notes
+This design is intended for desktop screens only.
+You can adapt it for mobile with additional responsive styles.
+
