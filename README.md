@@ -12,6 +12,8 @@ A modern and minimal **desktop-only** landing page design for showcasing product
   - Call-to-Action
 - Smooth scrolling and consistent color scheme
 
+## 🪟 Preview
+<img width="2968" height="2918" alt="compino netlify app_ (1)" src="https://github.com/user-attachments/assets/7f0d5101-118c-4d14-bb26-0442ac6ad96e" />
 
 ## 💻 Demo
 You can view the live demo here: [Compino Demo](https://compino.netlify.app)
